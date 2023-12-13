@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.img{
+    position: absolute;
+    margin-left: -700px;
+    display: grid;
+}
+.img2{
+    width: 80vh;
+}
+.img4{
+    width: 80vh;
+}
+.hom1{
+    display: flex;
+    justify-content: left;
+    margin-left: -100vh;
+    height: 20vh;
+}
+h1{
+    font-family: 'AlphaCentauri', sans-serif;
+    color: cyan;
+    padding: 30px 0px 20px 0px;
+
+}
+body{
+    background-color: black;
+    padding-left: 100vh;
+
+}
+p{
+    color: white;
+    font-family: 'popins',sans-serif;
+    font-size: 3vh;
+}
